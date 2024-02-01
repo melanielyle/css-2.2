@@ -1,0 +1,26 @@
+/* Stylesheet for display.html */
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+#div-1 {
+    font-size: 2em;
+    background-color: red;
+}
+
+#span-1 {
+    font-size: 2em;
+    background-color: cyan;
+}
+
+#span-2 {
+    font-size: 2em;
+    background-color: purple;
+}
+
+#div-2 {
+    font-size: 2em;
+    background-color: green;
+}
